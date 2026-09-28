@@ -96,7 +96,7 @@ The data itself is public and can be downloaded from the [NTPF Open Data page](h
 
 ## Data source
 
-National Treatment Purchase Fund (NTPF) Open Data: [ntpf.ie/waiting-list-data/open-data](https://www.ntpf.ie/waiting-list-data/open-data/)
+National Treatment Purchase Fund (NTPF) Open Data, © NTPF: [ntpf.ie/waiting-list-data/open-data](https://www.ntpf.ie/waiting-list-data/open-data/). Reused under the Re-use of Public Sector Information Regulations.
 
 This is a personal portfolio project and my own analysis. It is not affiliated with or endorsed by the NTPF or the HSE.
 
